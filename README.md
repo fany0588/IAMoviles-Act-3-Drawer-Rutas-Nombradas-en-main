@@ -1,4 +1,4 @@
-# myapp
+# IAMoviles Act 3 Drawer Rutas Nombradas en main
 
 A new Flutter project.
 
@@ -54,6 +54,13 @@ Cada pantalla incluye una imagen representativa centrada, acompañada de un tít
 Durante el desarrollo, se realizaron pruebas en DartPad para verificar el funcionamiento de la interfaz y la navegación. Posteriormente, el proyecto fue organizado para su implementación en Firebase Studio, manteniendo una estructura modular que facilita el mantenimiento y escalabilidad del código.
 
 En conclusión, esta aplicación demuestra el uso de Flutter para crear interfaces modernas, el manejo de rutas nombradas, la organización de archivos por módulos, la implementación de menús laterales personalizados y el consumo de recursos externos como imágenes desde la web, logrando una experiencia visual atractiva y funcional.
+
+<img width="366" height="622" alt="image" src="https://github.com/user-attachments/assets/9fc7738b-1e6d-4db1-9214-ae9d7700b508" />
+<img width="374" height="623" alt="image" src="https://github.com/user-attachments/assets/6f7fb2d0-0d95-46f0-81ae-b1f74ac1f0a3" />
+<img width="374" height="621" alt="image" src="https://github.com/user-attachments/assets/c6677d35-0e7e-4bc2-8394-7620f4374590" />
+<img width="402" height="618" alt="image" src="https://github.com/user-attachments/assets/dcdf14ea-5c32-46f3-805f-ac57798e73cc" />
+<img width="386" height="620" alt="image" src="https://github.com/user-attachments/assets/c88faab1-7d73-4765-9746-1210df56389e" />
+<img width="390" height="631" alt="image" src="https://github.com/user-attachments/assets/69bd2711-90ea-46dd-af99-ecc440d06d29" />
 
 <img width="1060" height="637" alt="image" src="https://github.com/user-attachments/assets/96596a13-b04c-4230-9951-e0c7e9a34ff9" />
 <img width="763" height="654" alt="image" src="https://github.com/user-attachments/assets/b7defc32-e487-40a3-9fc4-17c274b7414d" />
