@@ -55,13 +55,12 @@ Durante el desarrollo, se realizaron pruebas en DartPad para verificar el funcio
 
 En conclusión, esta aplicación demuestra el uso de Flutter para crear interfaces modernas, el manejo de rutas nombradas, la organización de archivos por módulos, la implementación de menús laterales personalizados y el consumo de recursos externos como imágenes desde la web, logrando una experiencia visual atractiva y funcional.
 
-This project is a starting point for a Flutter application.
+<img width="1060" height="637" alt="image" src="https://github.com/user-attachments/assets/96596a13-b04c-4230-9951-e0c7e9a34ff9" />
+<img width="763" height="654" alt="image" src="https://github.com/user-attachments/assets/b7defc32-e487-40a3-9fc4-17c274b7414d" />
+<img width="1061" height="637" alt="image" src="https://github.com/user-attachments/assets/dc872118-1240-4514-a7ed-82b01386c64a" />
+<img width="1060" height="640" alt="image" src="https://github.com/user-attachments/assets/f6d169ea-398f-4f92-9500-5d2590c0162f" />
+<img width="1049" height="642" alt="image" src="https://github.com/user-attachments/assets/ed6e7b2e-9331-4f0d-8e25-75b90cdd6710" />
+<img width="1052" height="639" alt="image" src="https://github.com/user-attachments/assets/46ea548d-58ec-49d6-9205-a5a5a6f9a20f" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
